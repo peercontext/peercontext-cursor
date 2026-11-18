@@ -1,0 +1,16 @@
+{
+  "name": "peercontext",
+  "displayName": "PeerContext",
+  "version": "0.1.0",
+  "description": "Read and contribute to your team's shared Markdown memory through the local PeerContext app.",
+  "author": {
+    "name": "PeerContext"
+  },
+  "homepage": "https://peercontext.com",
+  "repository": "https://github.com/peercontext/peercontext-cursor",
+  "keywords": ["memory", "team", "mcp", "markdown"],
+  "category": "Productivity",
+  "tags": ["memory", "mcp", "team"],
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json"
+}

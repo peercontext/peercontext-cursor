@@ -1,0 +1,16 @@
+{
+  "name": "peercontext",
+  "owner": {
+    "name": "PeerContext"
+  },
+  "metadata": {
+    "description": "Shared team memory for Cursor."
+  },
+  "plugins": [
+    {
+      "name": "peercontext",
+      "source": "plugins/peercontext",
+      "description": "Read and contribute to your team's shared Markdown memory through the local PeerContext app."
+    }
+  ]
+}
